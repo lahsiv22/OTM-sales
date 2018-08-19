@@ -2,7 +2,9 @@
 
 ### Data Description
 Initial Datset : 511 values
+
 2nd Attempt : 895 values
+
 Final Dataset : 1209 values
 
 The Initial Dataset had a very high number of Wedding Planner(WP) data causing the model to be heavily biased towards the Wp category.
@@ -63,15 +65,15 @@ The data is first cleaned by removing unnecessary punctuation marks.
 The data is then Tokenized and fit into sequences.
 These sequences are then fed as the input to the LSTM model.
 
-The model gives an Accuracy of 89.45% and a validation accuracy of 90.9%.
+#### The model gives an Accuracy of 89.45% and a validation accuracy of 90.9%.
 
 ### Testing
 
 It is tested against some uncategorised data. (NoCat.xlsx)
 Since it is not categorised we oursleves have only limited knowlwdge about the categories of the categrories.
 
-The Initial model barely gave 30% acceptable predictions.
+#### The Initial model barely gave 30% acceptable predictions.
 
-The 2nd model gave an ~60% acceptable prediction.
+#### The 2nd model gave an ~60% acceptable prediction.
 
-The 3rd model however gives a ~80% acceptable prediction.
+#### The 3rd model however gives a ~80% acceptable prediction.
