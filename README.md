@@ -13,6 +13,7 @@ This reduced the bias of the model greatly and the accuracy when tested on real 
 The Final data set was created by adding more real world data for each category to the 2nd dataset. This model when tested against real world data gave an ~80% accuracy.
 
 The value splot of the initial dataset:
+
 WP    228
 H     124
 TO     70
@@ -26,6 +27,7 @@ A       4
 CC      4
 
 The value Split of the final dataset: 
+
 WP    166
 TO    150
 CB    143
