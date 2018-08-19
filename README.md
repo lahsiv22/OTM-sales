@@ -76,4 +76,4 @@ Since it is not categorised we oursleves have only limited knowlwdge about the c
 
 #### The 2nd model gave an ~60% acceptable prediction.
 
-#### The 3rd model however gives a ~80% acceptable prediction.
+#### The Final model however gives a ~80% acceptable prediction.
