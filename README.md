@@ -15,27 +15,45 @@ The Final data set was created by adding more real world data for each category 
 The value splot of the initial dataset:
 
 WP    228
+
 H     124
+
 TO     70
+
 TB     62
+
 CB     57
+
 TA     49
+
 CH     35
+
 R      19
+
 EP     18
+
 A       4
+
 CC      4
 
 The value Split of the final dataset: 
 
 WP    166
+
 TO    150
+
 CB    143
+
 TB    140
+
 H     132
+
 CH    130
+
 EP    119
+
 R     117
+
 A     112
 
 NOTE : The Categrory Center(CC) has been merged to Convention Bureau(CB) and the Category Travel Agency(TA) has been merged with Tourist Organization(TO) due to low data count for the formers and they also more or less mean the same/  refer to similar organizations.
