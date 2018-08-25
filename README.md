@@ -103,8 +103,8 @@ NOTE : The Categrory Center(CC) has been merged to Convention Bureau(CB) and the
 It is tested against some uncategorised data. (NoCat.xlsx)
 Since it is not categorised we oursleves have only limited knowledge about the categories and validation is done based intuition.
 
-#### The Initial model barely gave 30% acceptable predictions.
+#### The Initial model barely gave 30% acceptable predictions. (OTM sales - LSTM.ipynb)
 
-#### The 2nd model gave an ~60% acceptable prediction.
+#### The 2nd model gave an ~60% acceptable prediction. (OTM sales - LSTM 2.ipynb)
 
-#### The Final model however gives a ~80% acceptable prediction.
+#### The Final model however gives a ~80% acceptable prediction. (OTM sales - LSTM Final.ipynb)
